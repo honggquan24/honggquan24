@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Hong Quan
 
-<!--
-**honggquan24/honggquan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Robotics Enthusiast** | Embedded Systems | Control Engineering
 
-Here are some ideas to get you started:
+Passionate about combining **AI + control + real-world robotics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- Final-year student in **Robotics and Artificial Intelligence** at HCMC University and Education
+
+
+---
+
+## Tech Stack
+
+- **Languages:** Python, C/C++, MATLAB
+- **AI/ML:** PyTorch, TensorFlow, scikit-learn  
+- **Control:** Simulink, Simscape, PID, SAC, PPO  
+- **Tools:** Git, Docker, Notion, LaTeX, VSCode
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: [your_email@example.com](mailto:22134012@student.hcmute.edu.vn)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/vo-hong-quan-b50063373/)  
+---
+
+> _"Build systems that think, sense, and act — that’s my passion."_

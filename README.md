@@ -11,8 +11,7 @@
 
 ## 📌 About Me
 
-🎓 Final-year student in <strong>Robotics and Artificial Intelligence</strong>  
-at <em>HCMC University of Education</em>
+🎓 Final-year student in <strong>Robotics and Artificial Intelligence</strong> at <em>HCMC University of Education</em>
 
 ---
 

@@ -20,7 +20,7 @@
 - 💻 **Languages:** `Python` `C/C++` `MATLAB`  
 - 🧠 **AI/ML:** `PyTorch` `TensorFlow` `scikit-learn`  
 - ⚙️ **Control:** `Simulink` `Simscape` `PID` `SAC` `PPO`  
-- 🛠️ **Tools:** `Git` `Docker` `Notion` `LaTeX` `VSCode`
+- 🛠️ **Tools:** `Git` `Notion` `LaTeX` `VSCode`
 
 ---
 
